@@ -4,6 +4,8 @@
 This project conducts a comprehensive exploratory data analysis on a dataset featuring the top 100 Korean Dramas. We delve into different aspects of KDramas, including release years, episode counts, ratings, airing days, networks, genres, and more.
 
 ## Environment & Dependencies
+This project was developed using Python version 3.12. The following Python packages were used for EDA:
+
 - `pandas`
 - `numpy`
 - `matplotlib`
